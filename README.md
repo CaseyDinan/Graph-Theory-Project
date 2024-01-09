@@ -1,2 +1,2 @@
-# Network-Analysis-Project
+# Graph-Theory-Project
 This project uses graph theory concepts applied to a hypothetical network. The project explores Dykstra's, Prim's, and other applicable algorithms to the field. NetAnalysis is the main file for the project, containing the bulk of the algorithms. The project can be run using the tester file NetworkTest.java. For any questions about the code, please feel free to reach out to me at cdd43@pitt.edu.
